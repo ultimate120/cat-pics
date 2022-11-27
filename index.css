@@ -1,0 +1,64 @@
+html, body
+{
+    background-color: rgba(39, 110, 202, 0.884);
+    width: 1024px;
+    height: 620px;
+}
+.img1
+{
+    border-radius: 100px;
+    position: absolute;
+    top: 28%;
+    left: 20%;
+    right: 50%;
+}
+.img2
+{
+    border-radius: 100px;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    right: 50%;
+}
+.signup
+{
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    font-size: large;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+    background-color:  rgba(255, 255, 255, 0.6 );
+    position: absolute;
+    top: 18%;
+    left: 60%;
+    right: 50%;
+    height: 480px;
+    width: 350px;
+}
+h1
+{
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+    font-size: 45px;
+    font-weight: 400;
+}
+input
+{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+button
+{
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: plum;
+    font-size: large;
+    font-weight: 500;
+}
